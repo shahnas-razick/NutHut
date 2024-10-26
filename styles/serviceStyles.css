@@ -1,0 +1,31 @@
+.serviceHeaderContainer {
+    margin-top: 50px;
+}
+
+
+.customCarousel {
+
+    width: 80vw;
+    border-radius: 50px;
+}
+
+.carousel-item img {
+    border-radius: 25px;
+    height: 600px;
+}
+
+.carousel-caption {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(119, 43, 43, 0.1);
+    backdrop-filter: blur(5.4px);
+    -webkit-backdrop-filter: blur(5.4px);
+}
+
+.servicesBody {
+    margin-top: 5vh;
+}
+
+.card{
+    background-color: rgb(234, 221, 202);
+}

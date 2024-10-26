@@ -1,0 +1,39 @@
+.aboutUsContainer {
+    margin-top: 80px;
+    width: 80%;
+}
+
+.aboutUs {
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.4px);
+    -webkit-backdrop-filter: blur(5.4px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 40px;
+    /* background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.9)), url("https://r2.erweima.ai/imgcompressed/compressed_58682393cd22e999611a085b8116ebd0.webp"); */
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-blend-mode: hard-light;
+    position: relative;
+
+}
+
+.mission {
+    background: rgba(233, 224, 224, 0.2);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(90px);
+    -webkit-backdrop-filter: blur(54px);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 30px;
+
+}
+
+.aboutImg {
+    width: 200px;
+    position: inherit;
+    right: 1vw;
+}
+
+

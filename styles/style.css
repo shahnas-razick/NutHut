@@ -1,0 +1,101 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+body {
+    background-color: #faf1ec;
+}
+
+.customNavbar {
+    background-color: #ffece1 !important;
+    padding: 1vw 3vw;
+}
+
+.navLogo {
+    width: 80px;
+    height: 80px;
+}
+
+.customNavItem {
+    font-size: 18px;
+}
+
+.customNavItem:hover {
+    color: #412927 !important;
+    text-decoration: underline;
+    text-underline-offset: 8px;
+}
+
+.active {
+    color: #412927 !important;
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    transition: all ease-in-out 2s;
+    animation-duration: 4s;
+    font-weight: 500;
+}
+
+.brandName {
+    font-size: 20px;
+    font-weight: 700;
+    margin-left: 5px;
+    color: #272023 !important;
+    font-family: Courier;
+}
+
+.vl {
+    border-left: 2px solid #c48b6d;
+    height: 50px;
+}
+
+.footerContainer {
+    margin-top: 60px;
+    background-color: #ffece1 !important;
+}
+
+.backToTopButton{
+    position: fixed;
+    top: 90vh;
+    right: 2vw;
+}
+
+.btnToScrollTop{
+    height: 45px;
+    width: 45px;
+    border-radius: 50%;
+    background-color: #613429 !important;
+    color: #f1f1f1;
+    font-size: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+ }
+
+.ccc {
+    background-color: red !important;
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px #613429;
+    border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: rgb(136,103,85);
+    background: linear-gradient(90deg, rgba(136,103,85,1) 0%, rgba(182,130,102,1) 15%, rgba(196,139,109,1) 50%, rgba(182,130,102,1) 85%, rgba(136,103,85,1) 100%);
+    border-radius: 10px;
+}
+
+
+.hrStyle{
+    color: #613429;
+margin: 20px 0;
+}
+
