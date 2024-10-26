@@ -29,3 +29,11 @@
 .card{
     background-color: rgb(234, 221, 202);
 }
+
+.card-img-top{
+    width: 15rem;
+    object-fit: fill;
+}
+.imgDiv{
+    min-height: 18rem;
+}

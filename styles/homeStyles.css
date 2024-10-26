@@ -23,14 +23,7 @@
     color: #ff6347;
 }
 
-.viewProdsButton {
-    border: 1px solid #d4a085;
-}
 
-.viewProdsButton:hover {
-    background-color: #d4a085 !important;
-    color: #ffece1;
-}
 
 .fade-in {
     animation: fadeIn 2s ease-in-out;
