@@ -1,0 +1,51 @@
+.contactContainer {
+        margin-top: 50px;
+        background: rgba(233, 224, 224, 0.2);
+        border-radius: 16px;
+        box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(90px);
+        -webkit-backdrop-filter: blur(54px);
+        border: 1px solid rgba(255, 255, 255, 0.3);
+        padding: 50px;
+}
+
+.imgLogo{
+        width: 350px;
+        opacity: 0.5;
+        padding: 50px;
+        
+        
+}
+.emailPrefixIcon:hover{
+        background-color: #d4a085 !important;
+        color: #ffece1;
+
+}
+
+.submit:hover{
+        background-color: #d4a085 !important;
+        color: #ffece1;
+
+}
+
+.emailPrefixIcon{
+        height: 45px;
+}
+
+.bootstrap-icons{
+        margin-top: 13vh; 
+}
+
+.iconicon{
+         
+ font: size 2px;;
+
+}
+
+.addressContainer{
+        margin-top: 10 0px;
+}
+
+.addressIcon{
+        padding-right: 20px;
+}

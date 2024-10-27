@@ -24,6 +24,7 @@
 
 .servicesBody {
     margin-top: 5vh;
+
 }
 
 .card{
@@ -36,4 +37,12 @@
 }
 .imgDiv{
     min-height: 18rem;
+    min-width: 15rem;
+}
+
+
+.card-img-top-img{
+         
+    min-height: 18rem;
+    min-width: 18rem;
 }
